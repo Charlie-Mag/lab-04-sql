@@ -1,0 +1,4 @@
+first_name	last_name	major	title	post_text
+Charlie	Magruder	Data Science	First goal	Scored my first goal on the club hockey team tonight in a win over VT.
+Jordan	Davis	Data Science	Good lecture	Data science lecture was confusing at first but the examples helped a lot.
+Riley	Moore	Data Science	Office hours	Went to office hours and realized my code error was just a missing comma.
